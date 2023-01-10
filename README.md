@@ -1,7 +1,5 @@
 # Fast API - Social Media
-Social Media API built with FastAPI framework.
-
-A simple CRUD social media API which has logins, password hashing and database integration.
+Social Media API built with FastAPI framework. A simple CRUD API which has logins, password hashing and database integration.
 
 ## Features
 - Login User
